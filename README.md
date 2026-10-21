@@ -5,7 +5,33 @@
 
 [![Смотреть видео](https://i.ibb.co/p6vzksdL/Untitled-1.png)](https://youtu.be/YLf90GRKQVk?t=296)
 
-[![Обзор](https://img.shields.io/badge/Обзор%20YTDownloader-red?style=for-the-badge&logo=youtube)](https://youtu.be/YLf90GRKQVk?t=296)
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td align="center" width="33%"><b>Скачивания</b></td>
+      <td align="center" width="33%"><b>Обзор</b></td>
+      <td align="center" width="33%"><b>Донаты</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MartyFiles/YTDownloader/releases/download/Release/YTDownloader.7z">
+          <img src="https://img.shields.io/github/downloads/MartyFiles/YTDownloader/Release/total?style=for-the-badge&label=YTDownloader%20&color=blue&logo=download">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtu.be/YLf90GRKQVk?t=296">
+          <img src="https://img.shields.io/badge/YTDownloader%20-red?style=for-the-badge&logo=youtube">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/tribute/app?startapp=dg3u">
+          <img src="https://img.shields.io/badge/Telegram%20/Tribute-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 #
