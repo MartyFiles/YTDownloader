@@ -3,7 +3,7 @@
 ### <img width="128px" src="https://i.ibb.co/23tgp8km/aygoy-xfbmr-001.png" /> 
 <strong>YTDownloader</strong> — простой способ качать видео!
 
-[![Смотреть видео](https://i.ibb.co/p6vzksdL/Untitled-1.png)](https://youtu.be/YLf90GRKQVk?t=296)
+[![Смотреть видео](https://i.ibb.co/ymWNZLGM/Post-copy-maximum.png)](https://youtu.be/YLf90GRKQVk?t=296)
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tbody>
